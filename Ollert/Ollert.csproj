@@ -278,4 +278,6 @@
     <Content Include="Views\Board\Salle\_Tables.cshtml" />
     <Content Include="Views\Board\Salle\_MessagesList.cshtml" />
     <Content Include="Views\Board\Salle\_CardDetails.cshtml" />
-    <Content Include="Views\Shared\_LayoutPublic
+  </ItemGroup>
+
+</Project>
